@@ -1,0 +1,34 @@
+/*VARIABLES*/
+:root {
+  --mx-width: 1320px;
+  --color-title: #292930;
+
+}
+
+
+@media (min-width:1750px) {
+
+
+
+}
+
+@media (min-width:1199px) and (max-width:1400px) {
+
+  /*.projects__grid,
+  .stats__container,
+  .contact__container,*//*
+  .reviews__grid,
+  .clients__container,
+  .news__container,
+  .footer__container {
+    max-width: 100%;
+    padding-left: 3rem;
+    padding-right: 3rem;
+
+  }
+
+  .projects__all {
+    gap: 3rem;
+  }
+}
+
